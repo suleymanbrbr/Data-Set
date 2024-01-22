@@ -10,11 +10,11 @@ Finding the number of unique items is not easy; traditional approaches, such as 
 
 However, since the universal set cardinality is infinite, and the original numbers are distributed arbitrarily (see the first step above), to ensure that the values we deal with are evenly distributed within a limited interval, we will employ a hash function and estimate the stream cardinality based on the hashed values rather than the actual entries themselves. You can consider a hash function as a deterministic, non-random function generating uniformly distributed numbers. It is deterministic since for the same input, which can be an integer, double, string, any object etc., a hash function outputs the same number. In the project, the items will be words/strings. A basic hash function family implementation, which you can also use in your project, is given below:
 
-<img width="727" alt="Screenshot 2024-01-22 at 14 55 08" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/84f03d9c-f486-4c57-84a2-37cfc89029da">
+<img width="611" alt="Screenshot 2024-01-22 at 14 57 19" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/48b4a6c9-1f32-4b37-9ede-080b053418a7">
 
-<img width="325" alt="Screenshot 2024-01-22 at 14 57 43" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/65b98fb6-6c91-447d-a3c2-62f432cdb820">
+<img width="727" alt="Screenshot 2024-01-22 at 14 55 08" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/84f03d9c-f486-4c57-84a2-37cfc89029da">
 
 <img width="482" alt="Screenshot 2024-01-22 at 14 57 52" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/02659d32-0634-40cf-961f-d8d35a2860f7">
 
-<img width="611" alt="Screenshot 2024-01-22 at 14 57 19" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/48b4a6c9-1f32-4b37-9ede-080b053418a7">
+<img width="325" alt="Screenshot 2024-01-22 at 14 57 43" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/65b98fb6-6c91-447d-a3c2-62f432cdb820">
 

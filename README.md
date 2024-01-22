@@ -18,3 +18,7 @@ However, since the universal set cardinality is infinite, and the original numbe
 
 <img width="325" alt="Screenshot 2024-01-22 at 14 57 43" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/65b98fb6-6c91-447d-a3c2-62f432cdb820">
 
+Possible output:
+
+<img width="592" alt="Screenshot 2024-01-22 at 15 00 45" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/4a1e9fe8-6da4-41ca-a68f-e4c19b3ea222">
+

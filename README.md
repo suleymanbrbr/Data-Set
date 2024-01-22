@@ -13,10 +13,29 @@ However, since the universal set cardinality is infinite, and the original numbe
 <img width="727" alt="Screenshot 2024-01-22 at 14 55 08" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/84f03d9c-f486-4c57-84a2-37cfc89029da">
 
 
+
+
+
+
 <img width="611" alt="Screenshot 2024-01-22 at 14 57 19" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/48b4a6c9-1f32-4b37-9ede-080b053418a7">
 
 
+
+
+
+
+
+
+
+
+
 <img width="325" alt="Screenshot 2024-01-22 at 14 57 43" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/65b98fb6-6c91-447d-a3c2-62f432cdb820">
+
+
+
+
+
+
 
 
 <img width="482" alt="Screenshot 2024-01-22 at 14 57 52" src="https://github.com/suleymanbrbr/Data-Set/assets/111366311/02659d32-0634-40cf-961f-d8d35a2860f7">
